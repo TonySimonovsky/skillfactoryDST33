@@ -1,8 +1,11 @@
+## About
+
 This is a learning project, where I did some exploratory analysis of a dataset from IMDB, finding answers to some of the questions about the dataset.
 
 27/27 points received when answering the questions.
 
-Self-reflection:
+
+## Self-reflection
 1. Was really interesting to dive deep into the Pandas data structures.
 2. The only question that I'm concerned about - is there a better way to find the answer to the last question?
 3. It was interesting to know that explode method made it easy to answer the questions, where the features used contained multiple values in one cell.
